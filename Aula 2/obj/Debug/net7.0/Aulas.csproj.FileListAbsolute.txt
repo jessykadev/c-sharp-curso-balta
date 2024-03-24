@@ -1,0 +1,15 @@
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\bin\Debug\net7.0\Aulas.exe
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\bin\Debug\net7.0\Aulas.deps.json
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\bin\Debug\net7.0\Aulas.runtimeconfig.json
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\bin\Debug\net7.0\Aulas.dll
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\bin\Debug\net7.0\Aulas.pdb
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\Aulas.csproj.AssemblyReference.cache
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\Aulas.AssemblyInfoInputs.cache
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\Aulas.AssemblyInfo.cs
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\Aulas.dll
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\refint\Aulas.dll
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\Aulas.pdb
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\Aulas.genruntimeconfig.cache
+C:\Users\jessy\OneDrive\Documentos\Jéssyka\C#\Aulas\obj\Debug\net7.0\ref\Aulas.dll
